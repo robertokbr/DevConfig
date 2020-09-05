@@ -3,5 +3,5 @@
 ### 🔧 Settings.json
 
 - Copy the content of `VscodeSettings.json`
-- On VSCode press `Ctrl + Shift + p` and search fro ***settings (json)***
+- On VSCode press `Ctrl + Shift + p` and search for ***settings (json)***
 - Paste the content
